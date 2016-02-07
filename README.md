@@ -43,4 +43,4 @@ Then in the menu option, we have <b>“Complains”</b> section. In this section
 
 ![Alt text](http://imgur.com/NVS67iv.png)
 
-Note:In this project we use <b>SQLite</b> Database with <b>"dormitory.sqlite"</b> name. It was a group project for an university course.Thanks Hira to help me in this project.
+Note:In this project we use <b>SQLite</b> Database with <b>"dormitory.sqlite"</b> name. It was a group project for an university course.Thanks Hira to help me in this project. It's a Java Swing Project. Need JVM to run.
